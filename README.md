@@ -116,7 +116,7 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What is an A record, an NS record, a PTR record, a CNAME record, an MX record?
 * Are there any other RRs and what are they used for?
 * What is a Split-Horizon DNS?
-* What is the sticky bit?
+* What is the sticky bit? : https://www.thegeekstuff.com/2013/02/sticky-bit/
 * What does the immutable bit do to a file?
 * What is the difference between hardlinks and symlinks? What happens when you remove the source to a symlink/hardlink?
 * What is an inode and what fields are stored in an inode?
